@@ -1,13 +1,21 @@
-<script type="text/javascript"> (function(a,b,c,d,e,f,g){e['ire_o']=c;e[c]=e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('https://utt.impactcdn.com/A2365965-fe6c-429c-bf05-982e011ff18565535.js','script','ire',document,window); ire('identify', {customerid: '', customeremail:''}); 
-</script>
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/notanotherthrowaway/testsite1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+Test Links
+
+Wilson: https://wilson.aqpq.net/dG1vj
+Kohls: https://kohls.sjv.io/7j0v3
+Trade Coffee: https://tradecoffee.pxf.io/gbe0Rg
+Levis: https://levis.pfm4.net/test
+Backcountry: https://backcountry.tnu8.net/Xxvk4G
+Addidas: https://adidas-pp.njih.net/mWyPD
+Kerastaste: https://kerastaseca.ow29pp.net/WDv5OJ
+Addidas CA: https://adidas.njih.net/kjJv1z
 
 ### Markdown
 
