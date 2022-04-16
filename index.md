@@ -1,9 +1,8 @@
-
-## This is a test page where multiple tracking links are listed below
+This is a test page where multiple tracking links are listed below
 
 All tracking links go to different domains:
 
-### Test Links
+Test Links
 
 Wilson: https://wilson.aqpq.net/dG1vj
 Kohls: https://kohls.sjv.io/7j0v3
